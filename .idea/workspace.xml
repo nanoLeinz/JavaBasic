@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d959cfb3-bd48-433d-8ba6-16705f740b5c" name="Changes" comment="added 2nd line" />
+    <list default="true" id="d959cfb3-bd48-433d-8ba6-16705f740b5c" name="Changes" comment="added README" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +15,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -61,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669699176150</updated>
-      <workItem from="1669699176901" duration="4644000" />
+      <workItem from="1669699176901" duration="4995000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Start">
       <created>1669699628750</created>
@@ -84,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669704550768</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added README">
+      <created>1669704801326</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669704801326</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +118,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="variable" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -115,6 +139,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Start" />
     <MESSAGE value="added 2nd line" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 2nd line" />
+    <MESSAGE value="added README" />
+    <option name="LAST_COMMIT_MESSAGE" value="added README" />
   </component>
 </project>
